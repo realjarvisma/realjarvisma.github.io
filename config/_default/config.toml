@@ -1,4 +1,4 @@
 baseURL = "https://realjarvisma.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "DoIt"
+theme = "PaperMod"
