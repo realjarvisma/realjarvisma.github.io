@@ -17,7 +17,7 @@ buildExpired = false
   title = "Jarvis' Log"
   description = "ExampleSite description"
   keywords = ["Blog", "Portfolio", "PaperMod"]
-  author = "Me"
+  author = "Jarvis Ma"
   # author = ["Me", "You"] # multiple authors
   images = ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat = "January 2, 2006"
@@ -121,11 +121,6 @@ buildExpired = false
     name = "tags"
     url = "/tags/"
     weight = 20
-  [[menu.main]]
-    identifier = "example"
-    name = "example.org"
-    url = "https://example.org"
-    weight = 30
 
 pygmentsUseClasses = true
 
