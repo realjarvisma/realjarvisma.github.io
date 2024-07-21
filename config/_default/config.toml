@@ -94,9 +94,9 @@ buildExpired = false
 
 [menu]
   [[menu.main]]
-    identifier = "categories"
-    name = "categories"
-    url = "/categories/"
+    identifier = "search"
+    name = "search"
+    url = "/csearch/"
     weight = 10
   [[menu.main]]
     identifier = "tags"
