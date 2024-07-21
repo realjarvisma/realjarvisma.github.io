@@ -103,6 +103,11 @@ buildExpired = false
     name = "tags"
     url = "/tags/"
     weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 30
 
 pygmentsUseClasses = true
 
