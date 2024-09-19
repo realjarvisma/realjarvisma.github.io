@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jarvis&#39; Log</title>
+    <link>http://localhost:61924/post/</link>
+    <description>Recent content in Posts on Jarvis&#39; Log</description>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jul 2024 15:04:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:61924/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:61924/post/test/</link>
+      <pubDate>Sun, 28 Jul 2024 15:04:10 +0800</pubDate>
+      <guid>http://localhost:61924/post/test/</guid>
+      <description>&lt;p&gt;行内公式：$E = mc^2$&lt;/p&gt;
+&lt;p&gt;独立公式：&lt;/p&gt;
+&lt;p&gt;$$
+\frac{\partial f}{\partial x} = 2\sqrt{a}x
+$$&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://latex.codecogs.com/svg.image?E=mc%5e2&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://latex.codecogs.com/svg.image?%5cfrac%7b%5cpartial&amp;amp;space;f%7d%7b%5cpartial&amp;amp;space;x%7d=2%5csqrt%7ba%7dx&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
