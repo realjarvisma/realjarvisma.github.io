@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Vision on Jarvis&#39; Log</title>
+    <link>http://localhost:1313/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Jarvis&#39; Log</description>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jul 2023 04:58:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture</title>
+      <link>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</link>
+      <pubDate>Sat, 29 Jul 2023 04:58:53 +0800</pubDate>
+      <guid>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Invented in 2017 and first presented in the ground-breaking paper “Attention is All You Need”(&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34;&gt;Vaswani et al. 2017&lt;/a&gt;), the transformer model has been a revolutionary contribution to deep learning and arguably, to computer science as a whole. Born as a tool for neural machine translation, it has proven to be far-reaching, extending its applicability beyond Natural Language Processing (NLP) and cementing its position as a versatile and general-purpose neural network architecture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
