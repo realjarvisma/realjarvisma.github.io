@@ -5,9 +5,9 @@ theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+buildDrafts: true
+buildFuture: true
+buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 
@@ -37,9 +37,9 @@ params:
   disableSpecial1stPost: false
   disalbeScrollToTop: false
   comments: false
-  hidemeta: true
+  hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
   math: true
   

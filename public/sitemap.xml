@@ -2,21 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:61924/</loc>
-    <lastmod>2024-07-28T15:04:10+08:00</lastmod>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/post/</loc>
-    <lastmod>2024-07-28T15:04:10+08:00</lastmod>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/post/test/</loc>
-    <lastmod>2024-07-28T15:04:10+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/archives/</loc>
+    <loc>http://localhost:1313/tags/neural-architectures/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/categories/</loc>
+    <loc>http://localhost:1313/tags/nlp/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/search/</loc>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:61924/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/transformers/</loc>
+    <lastmod>2023-07-29T04:58:53+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

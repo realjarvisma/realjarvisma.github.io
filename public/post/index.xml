@@ -2,26 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Jarvis&#39; Log</title>
-    <link>http://localhost:61924/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Jarvis&#39; Log</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jul 2024 15:04:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:61924/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jul 2023 04:58:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://localhost:61924/post/test/</link>
-      <pubDate>Sun, 28 Jul 2024 15:04:10 +0800</pubDate>
-      <guid>http://localhost:61924/post/test/</guid>
-      <description>&lt;p&gt;行内公式：$E = mc^2$&lt;/p&gt;
-&lt;p&gt;独立公式：&lt;/p&gt;
-&lt;p&gt;$$
-\frac{\partial f}{\partial x} = 2\sqrt{a}x
-$$&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://latex.codecogs.com/svg.image?E=mc%5e2&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://latex.codecogs.com/svg.image?%5cfrac%7b%5cpartial&amp;amp;space;f%7d%7b%5cpartial&amp;amp;space;x%7d=2%5csqrt%7ba%7dx&#34; alt=&#34;&#34;  /&gt;
-&lt;/p&gt;</description>
+      <title>The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture</title>
+      <link>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</link>
+      <pubDate>Sat, 29 Jul 2023 04:58:53 +0800</pubDate>
+      <guid>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Invented in 2017 and first presented in the ground-breaking paper “Attention is All You Need”(&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34;&gt;Vaswani et al. 2017&lt;/a&gt;), the transformer model has been a revolutionary contribution to deep learning and arguably, to computer science as a whole. Born as a tool for neural machine translation, it has proven to be far-reaching, extending its applicability beyond Natural Language Processing (NLP) and cementing its position as a versatile and general-purpose neural network architecture.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
