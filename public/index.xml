@@ -3,7 +3,7 @@
   <channel>
     <title>Jarvis&#39; Log</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Jarvis&#39; Log</description>
+    <description>Recent content on Jarvis&#39; Log. feedId:59792776135882752+userId:45391848506893312</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Jul 2023 04:58:53 +0800</lastBuildDate>
@@ -15,6 +15,14 @@
       <guid>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Invented in 2017 and first presented in the ground-breaking paper “Attention is All You Need”(&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34;&gt;Vaswani et al. 2017&lt;/a&gt;), the transformer model has been a revolutionary contribution to deep learning and arguably, to computer science as a whole. Born as a tool for neural machine translation, it has proven to be far-reaching, extending its applicability beyond Natural Language Processing (NLP) and cementing its position as a versatile and general-purpose neural network architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Explain the Prediction of a Machine Learning Model?</title>
+      <link>http://localhost:1313/post/2017-08-01-interpretation/how-to-explain-the-prediction-of-a-machine-learning-model/</link>
+      <pubDate>Tue, 01 Aug 2017 03:14:40 +0800</pubDate>
+      <guid>http://localhost:1313/post/2017-08-01-interpretation/how-to-explain-the-prediction-of-a-machine-learning-model/</guid>
+      <description>&lt;p&gt;The machine learning models have started penetrating into critical areas like health care, justice systems, and financial industry. Thus to figure out how the models make the decisions and make sure the decisioning process is aligned with the ethnic requirements or legal regulations becomes a necessity.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the rapid growth of deep learning models pushes the requirement of interpreting complicated models further. People are eager to apply the power of AI fully on key aspects of everyday life. However, it is hard to do so without enough trust in the models or an efficient procedure to explain unintended behavior, especially considering that the deep neural networks are born as &lt;em&gt;black-boxes&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predict Stock Prices Using Rnn Part 2</title>
