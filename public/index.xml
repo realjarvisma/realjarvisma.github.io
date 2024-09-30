@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"> 
   <channel>
-    <title>Jarvis&#39; Log</title>
+    <title>Jarvis' Log</title>
     <link>http://localhost:1313/</link>
     <description>feedId:59792776135882752+userId:45391848506893312</description>
     <generator>Hugo -- 0.134.1</generator>
@@ -14,7 +14,7 @@
       <pubDate>Sat, 29 Jul 2023 04:58:53 +0800</pubDate>
       <guid>http://localhost:1313/post/2023-07-29-transformer/the-transformer-blueprint-a-holistic-guide-to-the-transformer-neural-network-architecture/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Invented in 2017 and first presented in the ground-breaking paper “Attention is All You Need”(&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34;&gt;Vaswani et al. 2017&lt;/a&gt;), the transformer model has been a revolutionary contribution to deep learning and arguably, to computer science as a whole. Born as a tool for neural machine translation, it has proven to be far-reaching, extending its applicability beyond Natural Language Processing (NLP) and cementing its position as a versatile and general-purpose neural network architecture.&lt;/p&gt;</description>
+&lt;p&gt;Invented in 2017 and first presented in the ground-breaking paper “Attention is All You Need”(&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34;&gt;Vaswani  et al. 2017&lt;/a&gt;), the transformer model has been a revolutionary contribution to deep learning and arguably, to computer science as a whole. Born as a tool for neural machine translation, it has proven to be far-reaching, extending its applicability beyond Natural Language Processing (NLP) and cementing its position as a versatile and general-purpose neural network architecture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Explain the Prediction of a Machine Learning Model?</title>
@@ -25,21 +25,21 @@
 &lt;p&gt;Meanwhile, the rapid growth of deep learning models pushes the requirement of interpreting complicated models further. People are eager to apply the power of AI fully on key aspects of everyday life. However, it is hard to do so without enough trust in the models or an efficient procedure to explain unintended behavior, especially considering that the deep neural networks are born as &lt;em&gt;black-boxes&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Predict Stock Prices Using Rnn Part 2</title>
+      <title>Predict Stock Prices Use Rnn Part 2</title>
       <link>http://localhost:1313/post/2017-07-22-stock-rnn-part-2/predict-stock-prices-using-rnn-part2/</link>
       <pubDate>Sat, 22 Jul 2017 02:19:57 +0800</pubDate>
       <guid>http://localhost:1313/post/2017-07-22-stock-rnn-part-2/predict-stock-prices-using-rnn-part2/</guid>
-      <description>&lt;p&gt;In the Part 2 tutorial, I would like to continue the topic on stock price prediction and to endow the recurrent neural network that I have built in &lt;a href=&#34;https://jarvisma.xyz/post/2017-07-08-stock-rnn-part-1/predict-stock-prices-using-rnn-part1/&#34;&gt;Part 1&lt;/a&gt; with the capability of responding to multiple stocks. In order to distinguish the patterns associated with different price sequences, I use the stock symbol embedding vectors as part of the input.&lt;/p&gt;
+      <description>&lt;p&gt;In the Part 2 tutorial, I would like to continue the topic on stock price prediction and to endow the recurrent neural network that I have built in &lt;a href=&#34;http://localhost:1313/post/2017-07-08-stock-rnn-part-1/predict-stock-prices-using-rnn-part1/&#34;&gt;Part  1&lt;/a&gt; with the capability of responding to multiple stocks. In order to distinguish the patterns associated with different price sequences, I use the stock symbol embedding vectors as part of the input.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
-&lt;p&gt;During the search, I found &lt;a href=&#34;https://github.com/lukaszbanasiak/yahoo-finance&#34;&gt;this library&lt;/a&gt; for querying Yahoo! Finance API. It would be very useful if Yahoo hasn’t shut down the historical data fetch API. You may find it useful for querying other information though. Here I pick the Google Finance link, among &lt;a href=&#34;https://www.quantshare.com/sa-43-10-ways-to-download-historical-stock-quotes-data-for-free&#34;&gt;a couple of free data sources&lt;/a&gt; for downloading historical stock prices.&lt;/p&gt;</description>
+&lt;p&gt;During the search, I found &lt;a href=&#34;https://github.com/lukaszbanasiak/yahoo-finance&#34;&gt;this  library&lt;/a&gt; for querying Yahoo! Finance API. It would be very useful if Yahoo hadn’t shut down the historical data fetch API. You may find it useful for querying other information though. Here I pick the Google Finance link, among &lt;a href=&#34;https://www.quantshare.com/sa-43-10-ways-to-download-historical-stock-quotes-data-for-free&#34;&gt;a  couple of free data sources&lt;/a&gt; for downloading historical stock prices.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Predict Stock Prices Using Rnn Part 1</title>
+      <title>Predict Stock Prices Use Rnn Part 1</title>
       <link>http://localhost:1313/post/2017-07-08-stock-rnn-part-1/predict-stock-prices-using-rnn-part1/</link>
       <pubDate>Sat, 08 Jul 2017 18:18:57 +0800</pubDate>
       <guid>http://localhost:1313/post/2017-07-08-stock-rnn-part-1/predict-stock-prices-using-rnn-part1/</guid>
-      <description>&lt;p&gt;This is a tutorial for how to build a recurrent neural network using Tensorflow to predict stock market prices. If you don’t know what is recurrent neural network or LSTM cell, feel free to check &lt;a href=&#34;https://jarvisma.xyz/posts/an-overview-of-deep-learning-for-curious-people/#recurrent-neural-network&#34;&gt;my previous post&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This is a tutorial for how to build a recurrent neural network using Tensorflow to predict stock market prices. If you don’t know what is recurrent neural network or LSTM cell, feel free to check &lt;a href=&#34;http://localhost:1313/posts/an-overview-of-deep-learning-for-curious-people/#recurrent-neural-network&#34;&gt;my  previous post&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;One thing I would like to emphasize that because my motivation for writing this post is more on demonstrating how to build and train an RNN model in Tensorflow and less on solve the stock prediction problem, I didn’t try hard on improving the prediction outcomes. You are more than welcome to take my code as a reference point and add more stock prediction related ideas to improve it. Enjoy!&lt;/p&gt;</description>
     </item>
@@ -48,7 +48,4 @@
       <link>http://localhost:1313/post/2017-06-21-overview/an-overview-of-deep-learning-for-curious-people/</link>
       <pubDate>Wed, 21 Jun 2017 12:06:59 +0800</pubDate>
       <guid>http://localhost:1313/post/2017-06-21-overview/an-overview-of-deep-learning-for-curious-people/</guid>
-      <description>&lt;p&gt;I believe many of you have watched or heard of the &lt;a href=&#34;https://youtu.be/vFr3K2DORc8&#34;&gt;games&lt;/a&gt; between AlphaGo and professional Go player &lt;a href=&#34;https://en.wikipedia.org/wiki/Lee_Sedol&#34;&gt;Lee Sedol&lt;/a&gt; in 2016. Lee has the highest rank of nine dan and many world championships. No doubt, he is one of the best Go players in the world, but he &lt;a href=&#34;https://www.scientificamerican.com/article/how-the-computer-beat-the-go-master/&#34;&gt;lost by 1-4&lt;/a&gt; in this series versus AlphaGo. Before this, Go was considered to be an intractable game for computers to master, as its simple rules lay out an exponential number of variations in the board positions, many more than what in Chess. This event surely highlighted 2016 as a big year for AI. Because of AlphaGo, much attention has been attracted to the progress of AI.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+      <description>&lt;p&gt;I believe many of you have watched or heard of the &lt;a href=&#34;https://youtu.be/vFr3K2DORc8&#34;&gt;games&lt;/a&gt;  between AlphaGo and professional Go player &lt;a href=&#34;https://en.wikipedia.org/wiki/Lee_Sedol&#34;&gt;Lee  Sedol&lt;/a&gt; in 2016. Lee has the highest rank of nine dan and many world championships. No doubt, he is one of the best Go players in the world, but he &lt;a href=&#34;https://www.scientificamerican.com/article/how-the-computer-beat-the-go-master/&#34;&gt;lost
